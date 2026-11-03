@@ -63,12 +63,12 @@ Gunakan folder `assets/screenshots/` dan masukkan gambar hasil kerja Anda di sin
 
 ### Template Screenshot
 
-| No  | Screenshot                                          | Keterangan                |
-| --- | --------------------------------------------------- | ------------------------- |
-| 1   | ![Home Screen](./assets/screenshots/01-home.png)    | Halaman utama diary       |
-| 2   | ![Favorites](./assets/screenshots/04-favorites.png) | Daftar diary favorit      |
-| 3   | ![Detail Diary](./assets/screenshots/02-add.png)    | Detail entri diary        |
-| 4   | ![Filter Mood](./assets/screenshots/03-setting.png) | Pencarian dan filter mood |
+| No  | Screenshot                                           | Keterangan                |
+| --- | ---------------------------------------------------- | ------------------------- |
+| 1   | ![Home Screen](./assets/screenshots/01-home.jpeg)    | Halaman utama diary       |
+| 2   | ![Favorites](./assets/screenshots/04-favorites.jpeg) | Daftar diary favorit      |
+| 3   | ![Detail Diary](./assets/screenshots/02-add.jpeg)    | Detail entri diary        |
+| 4   | ![Filter Mood](./assets/screenshots/03-setting.jpeg) | Pencarian dan filter mood |
 
 > Catatan: ganti nama file gambar sesuai dengan file yang Anda simpan di folder `assets/screenshots/`.
 
